@@ -14,7 +14,7 @@ The first book [_Mathematical Foundations and the Singularity_](https://arithmoi
 We are currently working on the second book called [_Phenomenology and the Geometry of Light_](https://arithmoi.org/phenomenology-and-the-geometry-of-light
 ).
 
-## Github Statistics
+## GitHub Statistics
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mik-TF&count_private=true&theme=tokyonight&showicons=true)]()
 

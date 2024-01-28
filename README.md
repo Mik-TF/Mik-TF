@@ -1,16 +1,22 @@
-### Hi there 👋
+# Mik-TF Github Page
 
-<!--
-**Mik-TF/Mik-TF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work
 
-Here are some ideas to get you started:
+I work with [ThreeFold Tech](https://github.com/threefoldtech) and [ThreeFold Foundation](https://github.com/threefoldfoundation) to create a globally-distributed grid of storage, compute, and network capacity ([see TF profile](https://www.threefold.io/people/mik-perreault/)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+Outside of coding, I am highly interested in mathematics, philosophy and music. 
+
+I am working with my great friend and mathematician Jason Glowney on the book series _Arithmoí - A Study of Mathematical Cohesiveness in Physics and Metaphysics_ (see [Arithmoi Foundation](https://arithmoi.org/arithmoi-team)). 
+
+The first book [_Mathematical Foundations and the Singularity_](https://arithmoi.org/mathematical-foundations-and-the-singularity) is now available in different formats.
+We are currently working on the second book called [_Phenomenology and the Geometry of Light_](https://arithmoi.org/phenomenology-and-the-geometry-of-light
+).
+
+## Github Statistics
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mik-TF&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mik-TF&langs_count=5&theme=tokyonight)]()
+
